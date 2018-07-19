@@ -1,0 +1,82 @@
+body{ 
+   
+    background-color: black;
+    background-image: url(vangoghbackground.jpg);
+    align-content: center;
+    background-position: center;
+    align-content: center;
+}
+
+h2{
+    font-size: 36pt;
+    color: white;
+    align-content: center;
+    font-family: monospace;
+
+    width: 700px;
+    
+    padding: 10px;
+    
+    margin-top: 10px;
+    
+    margin-left: auto;
+    
+    margin-right: auto;
+}
+
+p {
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: merienda;
+    font-size: 20pt;
+    color: aliceblue;
+    align-content: center;
+    text-align: center;
+    font-size: 22pt;
+    }
+
+a {
+    
+    color: white;
+    text-decoration-style:wavy;
+    text-decoration: underline;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 22pt;
+}
+
+nav {
+text-align: center;
+}
+
+
+a:hover{
+    color: lawngreen;
+}
+
+img{
+
+    border: double 10px lightblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+video {
+    display: block;
+    margin: auto;
+    }
+
+object {
+    margin-left: auto;
+    margin-right: auto;
+    width:500px;
+    display: block;
+}
+
+
+}
+
